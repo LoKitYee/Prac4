@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\342a07879c471881e37f67bfa96ea26f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\c3968f9e0fa601607b484f949f0df632\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\8c6960d162b9846f1449d4a96b05ca26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\0b6f21883e7437e8acba5a166d052423\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\63a812ba54d76ae1f3f0e08b68ecffb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\6cb3e7acaf6ffc92499a49c203c3e575\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\5b88274e21d0f577ee985e865e6b9847\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\10eb5fc9d42bec130bad39498e88f167\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\861465e94d3860f0de03237ee0eda054\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\8b8d94125029c40db611d73db4d50142\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\8ecc5cb851e14455d326d557618726d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\1beeaab0db6ac10e86e61b492e05aa5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\5dddb2efa409db91c9b70e01da4ccf5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\d290fd3880ae0b8b2ccf9d348173703e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\427925faf4dab69bb903e6ec8f579ffd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\35d43c9f8f60a36ac8aa22a43c5c1dbb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\f133f8bbd45404cda54cf40bc2bc341e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\c7bf02f105d2a0a0ec9792badbb4f10e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\d8218a1ea177a428f0beaffa7c81f0da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\f425d2307f00f5f6ca26b5548107d769\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\a27e09e6f0bc5f9ea58288fb9a698500\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\747f931ba421fc166f7c16237f066f5d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\d797f818c062bfd322def22913d6d3a7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\c0cd6ff34cf0d20cddf290e287010f9b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\463d1c3f090bf7e60725b9bdafaedfb5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\87025edd60e31733808981c04c7648cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\35f8282bb3b94452dcc5995a23f375f0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:5:5-32:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\c3968f9e0fa601607b484f949f0df632\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\c3968f9e0fa601607b484f949f0df632\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\35d43c9f8f60a36ac8aa22a43c5c1dbb\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\35d43c9f8f60a36ac8aa22a43c5c1dbb\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\f133f8bbd45404cda54cf40bc2bc341e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\f133f8bbd45404cda54cf40bc2bc341e\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\35d43c9f8f60a36ac8aa22a43c5c1dbb\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.prac4.MyChildActivity
+ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:parentActivityName
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:16:13-55
+	android:label
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:15:13-57
+	android:name
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:14:19-50
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:18:13-20:49
+	android:value
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:20:17-46
+	android:name
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:19:17-63
+activity#com.example.prac4.MainActivity
+ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\342a07879c471881e37f67bfa96ea26f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\342a07879c471881e37f67bfa96ea26f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\c3968f9e0fa601607b484f949f0df632\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\c3968f9e0fa601607b484f949f0df632\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\8c6960d162b9846f1449d4a96b05ca26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\8c6960d162b9846f1449d4a96b05ca26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\0b6f21883e7437e8acba5a166d052423\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\0b6f21883e7437e8acba5a166d052423\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\63a812ba54d76ae1f3f0e08b68ecffb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\63a812ba54d76ae1f3f0e08b68ecffb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\6cb3e7acaf6ffc92499a49c203c3e575\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\6cb3e7acaf6ffc92499a49c203c3e575\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\5b88274e21d0f577ee985e865e6b9847\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\5b88274e21d0f577ee985e865e6b9847\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\10eb5fc9d42bec130bad39498e88f167\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\10eb5fc9d42bec130bad39498e88f167\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\861465e94d3860f0de03237ee0eda054\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\861465e94d3860f0de03237ee0eda054\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\8b8d94125029c40db611d73db4d50142\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\8b8d94125029c40db611d73db4d50142\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\8ecc5cb851e14455d326d557618726d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\8ecc5cb851e14455d326d557618726d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\1beeaab0db6ac10e86e61b492e05aa5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\1beeaab0db6ac10e86e61b492e05aa5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\5dddb2efa409db91c9b70e01da4ccf5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\5dddb2efa409db91c9b70e01da4ccf5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\d290fd3880ae0b8b2ccf9d348173703e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\d290fd3880ae0b8b2ccf9d348173703e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\427925faf4dab69bb903e6ec8f579ffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\427925faf4dab69bb903e6ec8f579ffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\35d43c9f8f60a36ac8aa22a43c5c1dbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\35d43c9f8f60a36ac8aa22a43c5c1dbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\f133f8bbd45404cda54cf40bc2bc341e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\f133f8bbd45404cda54cf40bc2bc341e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\c7bf02f105d2a0a0ec9792badbb4f10e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\c7bf02f105d2a0a0ec9792badbb4f10e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\d8218a1ea177a428f0beaffa7c81f0da\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\d8218a1ea177a428f0beaffa7c81f0da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\f425d2307f00f5f6ca26b5548107d769\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\f425d2307f00f5f6ca26b5548107d769\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\a27e09e6f0bc5f9ea58288fb9a698500\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\a27e09e6f0bc5f9ea58288fb9a698500\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\747f931ba421fc166f7c16237f066f5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\747f931ba421fc166f7c16237f066f5d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\d797f818c062bfd322def22913d6d3a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\d797f818c062bfd322def22913d6d3a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\c0cd6ff34cf0d20cddf290e287010f9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\c0cd6ff34cf0d20cddf290e287010f9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\463d1c3f090bf7e60725b9bdafaedfb5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\463d1c3f090bf7e60725b9bdafaedfb5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\87025edd60e31733808981c04c7648cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\87025edd60e31733808981c04c7648cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\35f8282bb3b94452dcc5995a23f375f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kitye\.gradle\caches\transforms-2\files-2.1\35f8282bb3b94452dcc5995a23f375f0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kitye\AndroidStudioProjects\Prac4\app\src\main\AndroidManifest.xml
